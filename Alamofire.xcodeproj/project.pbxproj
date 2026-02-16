@@ -230,11 +230,8 @@
 		4DD67C251A5C590000ED2280 /* Alamofire.swift in Sources */ = {isa = PBXBuildFile; fileRef = F897FF4019AA800700AB5182 /* Alamofire.swift */; };
 		8035DB621BAB492500466CB3 /* Alamofire.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F8111E3319A95C8B0040E7D1 /* Alamofire.framework */; };
 		9C5BD3822F436ECF00DAEBA9 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 9C5BD3812F436ECF00DAEBA9 /* PrivacyInfo.xcprivacy */; };
-		9C5BD3832F436ECF00DAEBA9 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 9C5BD3812F436ECF00DAEBA9 /* PrivacyInfo.xcprivacy */; };
-		9C5BD3842F436ECF00DAEBA9 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 9C5BD3812F436ECF00DAEBA9 /* PrivacyInfo.xcprivacy */; };
 		9C5BD3852F436ECF00DAEBA9 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 9C5BD3812F436ECF00DAEBA9 /* PrivacyInfo.xcprivacy */; };
 		9C5BD3862F436ECF00DAEBA9 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 9C5BD3812F436ECF00DAEBA9 /* PrivacyInfo.xcprivacy */; };
-		9C5BD3872F436ECF00DAEBA9 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 9C5BD3812F436ECF00DAEBA9 /* PrivacyInfo.xcprivacy */; };
 		9C5BD3882F436ECF00DAEBA9 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 9C5BD3812F436ECF00DAEBA9 /* PrivacyInfo.xcprivacy */; };
 		E4202FD01B667AA100C997FB /* ParameterEncoding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CE2724E1AF88FB500F1D59A /* ParameterEncoding.swift */; };
 		E4202FD11B667AA100C997FB /* Request.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CDE2C391AF899EC00BABAE5 /* Request.swift */; };
@@ -1044,7 +1041,6 @@
 				4CF627341BA7CC300011A099 /* rainbow.jpg in Resources */,
 				4CCB20741D4549E000C64D5B /* expired.badssl.com-intermediate-ca-1.cer in Resources */,
 				4C743D081C22772D00BCB23E /* valid-uri.cer in Resources */,
-				9C5BD3842F436ECF00DAEBA9 /* PrivacyInfo.xcprivacy in Resources */,
 				4C743CFC1C22772D00BCB23E /* keyDER.der in Resources */,
 				4CFB02FD1D7D2FA20056F249 /* valid_data.json in Resources */,
 				4CCB206E1D4549E000C64D5B /* expired.badssl.com-leaf.cer in Resources */,
@@ -1110,7 +1106,6 @@
 				4C33A13B1B5207DB00873DFF /* unicorn.png in Resources */,
 				4CCB20721D4549E000C64D5B /* expired.badssl.com-intermediate-ca-1.cer in Resources */,
 				4C743D341C22772F00BCB23E /* valid-uri.cer in Resources */,
-				9C5BD3872F436ECF00DAEBA9 /* PrivacyInfo.xcprivacy in Resources */,
 				4C743D281C22772F00BCB23E /* keyDER.der in Resources */,
 				4CFB02FB1D7D2FA20056F249 /* valid_data.json in Resources */,
 				4CCB206C1D4549E000C64D5B /* expired.badssl.com-leaf.cer in Resources */,
@@ -1152,7 +1147,6 @@
 				4C33A13C1B5207DB00873DFF /* unicorn.png in Resources */,
 				4CCB20731D4549E000C64D5B /* expired.badssl.com-intermediate-ca-1.cer in Resources */,
 				4C743D1E1C22772E00BCB23E /* valid-uri.cer in Resources */,
-				9C5BD3832F436ECF00DAEBA9 /* PrivacyInfo.xcprivacy in Resources */,
 				4C743D121C22772E00BCB23E /* keyDER.der in Resources */,
 				4CFB02FC1D7D2FA20056F249 /* valid_data.json in Resources */,
 				4CCB206D1D4549E000C64D5B /* expired.badssl.com-leaf.cer in Resources */,
